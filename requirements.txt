@@ -1,2 +1,4 @@
 Flask
 Gunicorn
+dash
+dash-bootstrap-components
